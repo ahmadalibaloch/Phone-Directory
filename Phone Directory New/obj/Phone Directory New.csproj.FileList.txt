@@ -1,0 +1,26 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication1.Properties.Resources.resources
+bin\Debug\Phone Directory New.exe
+bin\Debug\Phone Directory New.pdb
+obj\Debug\Phone Directory New.csproj.GenerateResource.Cache
+obj\Debug\Phone Directory New.exe
+obj\Debug\Phone Directory New.pdb
+obj\Debug\WindowsApplication1.frmMain.resources
+obj\Debug\WindowsApplication1.userId.resources
+bin\Release\Phone Directory New.exe
+bin\Release\Phone Directory New.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\WindowsApplication1.frmMain.resources
+obj\Release\WindowsApplication1.userId.resources
+obj\Release\WindowsApplication1.Properties.Resources.resources
+obj\Release\Phone Directory New.csproj.GenerateResource.Cache
+obj\Release\Phone Directory New.exe
+obj\Release\Phone Directory New.pdb
+bin\Release\Phone Directory New.exe.manifest
+bin\Release\Phone Directory New.application
+obj\Release\Phone Directory New.exe.manifest
+obj\Release\Phone Directory New.application
+bin\Debug\Phone Directory New.exe.manifest
+bin\Debug\Phone Directory New.application
+obj\Debug\Phone Directory New.exe.manifest
+obj\Debug\Phone Directory New.application
